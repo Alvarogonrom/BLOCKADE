@@ -8,9 +8,8 @@ Autor: Álvaro González Román
 Proyecto Final de Grado - Sistemas Microinformáticos y Redes (SMR)
 Año: 2026
 =============================================================================
-
-1. DESCRIPCIÓN DEL PROYECTO
 -----------------------------------------------------------------------------
+1. DESCRIPCIÓN DEL PROYECTO
 Blockade es una solución de ciberseguridad y control parental a nivel de red, 
 empaquetada en una máquina virtual (Debian 13) lista para usar (Plug & Play).
 Actúa como router, servidor DHCP, DNS y cortafuegos, filtrando todo el tráfico 
